@@ -1,4 +1,4 @@
-# Laboratory works for the Real Time Systems Lab, Automation and Computer Science, year III
+# Laboratory Works for Real Time Systems Course
 
 ## Lab 1
 
