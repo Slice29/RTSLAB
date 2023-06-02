@@ -12,9 +12,12 @@ Multi-threaded MVC Observer-Observable Application.
 
 Threading exercises and UML diagrams
 
-CodeSequence 2 - Example 1
-CodeSequence 8 - Example 4
-CodeSequence 9 - Example 5
+CodeSequence 2 - Example 1 
+
+CodeSequence 8 - Example 4  
+
+CodeSequence 9 - Example 5   
+
 
 Exercirses 3.1 and Example 3 contain the sollutions for the first and second coding requirements, respectively.
 
